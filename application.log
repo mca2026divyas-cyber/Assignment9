@@ -1,0 +1,9 @@
+2026-11-19 09:59:13,827 - WARNING - Order processing application started
+2026-11-19 09:59:13,827 - DEBUG - Starting order processing
+2026-11-19 09:59:13,827 - INFO - Processing order
+2026-11-19 09:59:13,827 - INFO - Order processed successfully
+2026-11-19 09:59:13,827 - DEBUG - Final order amount: 1062.0
+2026-11-19 09:59:13,827 - DEBUG - Starting order processing
+2026-11-19 09:59:13,827 - INFO - Processing order
+2026-11-19 09:59:13,827 - ERROR - Order processing failed: Price cannot be negative
+2026-11-19 09:59:13,827 - INFO - Order processing application finished
